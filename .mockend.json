@@ -1,0 +1,6 @@
+{
+  "Stat": {
+    "label": { "string": ["Test Label Test"] },
+    "value": { "int": { "min": 10000, "max": 20000 } }
+  }
+}
